@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://www.researchgate.net/profile/Dominique_Borrione/publication/4113308/figure/fig1/AS:669038661345281@1536522655043/SHA-1-algorithm-steps.png"
+image: images/SHA-1-algorithm-steps.png
 title: SHA-1 Algorithm
 permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
