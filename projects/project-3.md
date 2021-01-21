@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pokemon.jpg
+image: images/pokemon final.png
 title: Pokemon Game
 permalink: projects/Pokemon
 # All dates must be YYYY-MM-DD format!
