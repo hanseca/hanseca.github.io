@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSHA-1-algorithm-steps_fig1_4113308&psig=AOvVaw3GwgMyEG1GjvXPeUjUwEjN&ust=1611285257599000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD4xMKHrO4CFQAAAAAdAAAAABAD
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
