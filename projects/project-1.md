@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SHA-1-algorithm-steps.png
+image: images/sha-1 final.png
 title: SHA-1 Algorithm
 permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
