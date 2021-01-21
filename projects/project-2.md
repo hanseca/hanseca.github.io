@@ -7,7 +7,7 @@ permalink: projects/DiscordBot
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-07
 labels:
-  - Javascript
+  - JavaScript
   - Discord
 summary: A discord utility bot meant to do basic actions in a server automatically.
 ---
