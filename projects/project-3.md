@@ -12,7 +12,7 @@ labels:
 summary: A simple pokemon game where you try to catch a pokemon like Pokemon Go for ICS 211.
 ---
 
-<img class="ui image" src="https://github.com/hanseca/s18-a9-pokemon-gui-Darkrelapse/blob/master/Screenshot_20171128_151713.png?raw=true">
+<img class="ui image" src="../images/pokemon gui SS.png">
 
 This pokemon game was designed to be like Pokemon Go where you can catch pokemon using Java. You could have pokemon you had captured stored into your backpack. The purpose of this game was to show everything learned in ICS 211.
 
