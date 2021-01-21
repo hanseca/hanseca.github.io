@@ -9,7 +9,7 @@ labels:
   - Learning
   - Computers
   - Game Development
-  -Arduino
+  - Arduino
 ---
 
 ## The Beginning
