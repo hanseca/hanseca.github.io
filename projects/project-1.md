@@ -10,7 +10,7 @@ labels:
   - Encryption
   - Algorithms
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Developed an encryption algorithm as a final project for ICS 212.
 ---
 
 <div class="ui small rounded images">
