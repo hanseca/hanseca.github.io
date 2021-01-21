@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSHA-1-algorithm-steps_fig1_4113308&psig=AOvVaw3GwgMyEG1GjvXPeUjUwEjN&ust=1611285257599000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD4xMKHrO4CFQAAAAAdAAAAABAD"
-title: Micromouse
-permalink: projects/micromouse
+image: https://www.researchgate.net/profile/Dominique_Borrione/publication/4113308/figure/fig1/AS:669038661345281@1536522655043/SHA-1-algorithm-steps.png
+title: SHA-1 Algorithm
+permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-05-06
 labels:
-  - Robotics
-  - Arduino
+  - Encryption
+  - Algorithms
   - C++
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
