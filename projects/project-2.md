@@ -21,5 +21,4 @@ Example actions the bot would do is welcoming new users to the server with a cus
 
 Working on this project gave me one of the first experiences with working in JavaScript and understanding on how API's work and how to work with them. Also allowed me to get a first glimpse of developing something to enhance a user experience. It had also introduced me to webhooks, but I have not gone far with webhooks, but I now know how they work.
 
-Source: <a href="https://github.com/hanseca/ICS-212-Final-Project"><i class="large github icon"></i>Discord Bot</a>
-The code provided through the link is not the final product of the bot I designed years ago as I have lost the data for them. These are what I could find and are the early stages of the bot development.
+(The code for the bot is no longer available with me as it was lost while transferring from a HDD to an SSD about two years ago.) 
