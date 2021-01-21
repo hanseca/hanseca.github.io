@@ -12,7 +12,7 @@ labels:
 summary: A discord utility bot meant to do basic actions in a server automatically.
 ---
 
-<img class="right floated rounded image"src="https://omgeeky.com/wp-content/uploads/2020/02/How-To-Add-Bots-To-Discord.png">
+<img class="right floated rounded image" src="https://omgeeky.com/wp-content/uploads/2020/02/How-To-Add-Bots-To-Discord.png">
 
 The purpose of this project was to design a discord bot in JavaScript to automate actions for public servers. When Discord was still pretty new to the internet, it did not have as much functionality as it does now currently. This was to improve the user experience for users joining public servers.
 
