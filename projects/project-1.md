@@ -12,5 +12,8 @@ labels:
   - C++
 summary: Developed an encryption algorithm as a final project for ICS 212.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="https://cdn.arstechnica.net/wp-content/uploads/2020/01/sha1-760x380.png">
+</div>
 
 The final project for ICS 212 was to develop an encryption algorithm based off of SHA-1 documentations and test it on files with random messages in it. It would essentially take a file and run the encryption algorithm and output a message digest in a separate text file. The language used to develop this project is C++.
