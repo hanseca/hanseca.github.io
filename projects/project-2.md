@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Discord-bots.jpg
+image: images/discord bots final.png
 title: Discord Bot
 permalink: projects/DiscordBot
 # All dates must be YYYY-MM-DD format!
