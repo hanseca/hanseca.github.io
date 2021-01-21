@@ -8,7 +8,6 @@ permalink: projects/DiscordBot
 date: 2017-01-07
 labels:
   - Javascript
-  - GitHub
   - Discord
 summary: A discord utility bot meant to do basic actions in a server automatically.
 ---
