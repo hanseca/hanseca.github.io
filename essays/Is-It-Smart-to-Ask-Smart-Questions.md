@@ -16,4 +16,7 @@ When working on a piece of code, you may sometimes encounter a problem that you 
 
 ### The Smart Question
 
-When thinking about smart questions, you want to make sure how your question is presented and answered is efficient and effective. 
+When thinking about smart questions, you want to make sure how your question is presented and answered is efficient and effective. An example of what I think is a smart question is taken from [Stack Overflow](https://stackoverflow.com/questions/23667086/why-is-my-variable-unaltered-after-i-modify-it-inside-of-a-function-asynchron). The question asked is about why a variable is undefined when it is modified inside a function. I find this question to be smart because it does not just ask what causes the issue, but the person asking wants to know why it is happening. Asking about why such event is happening can bring people who answers your problem not just give you a short answer, but a detailed one. In this question, one person who answered first gave a short answer as to what kind of problem it is, but they go into details into why it is happening. Getting the details into why this issue occurs can help you understand more about the issue and can help you troubleshoot similar problems in the future.
+
+### The Stupid Question
+
