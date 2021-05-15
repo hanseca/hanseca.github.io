@@ -11,3 +11,6 @@ labels:
 - Web Development
   summary: A website designed for the UH community where they can sell or trade objects to other community members.
 ---
+
+<img src="../images/uhx-cover.png">
+
